@@ -19,3 +19,7 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+
+
+This is a work in progress. Some functions of the code do not work. This will be updated in the future but submitting night of 3/13 to avoid late score. 
